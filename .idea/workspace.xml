@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b93dd63-3d6d-4eb2-9c77-a112f744c1d6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="javastudy" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RbkbF9zkjb2DJHnqiLv1LOKJ1Y" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../snake" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Demo可变参数">
+    <configuration name="Demo可变参数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Secondparts.Demo可变参数" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Secondparts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo_thread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thirdparts.Demo_thread" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Thirdparts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.FileOutput" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Firstparts.PrintTime" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Firstparts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="j" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo可变参数" />
+        <item itemvalue="Application.j" />
+        <item itemvalue="Application.Demo_thread" />
+        <item itemvalue="Application.PrintTime" />
+        <item itemvalue="Application.FileOutput" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b93dd63-3d6d-4eb2-9c77-a112f744c1d6" name="Default Changelist" comment="" />
+      <created>1569943252529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569943252529</updated>
+      <workItem from="1569943254919" duration="132000" />
+      <workItem from="1569997217583" duration="1676000" />
+      <workItem from="1570022812040" duration="4725000" />
+      <workItem from="1570112458651" duration="5239000" />
+      <workItem from="1570260571378" duration="6247000" />
+      <workItem from="1570284357962" duration="2584000" />
+      <workItem from="1570287965142" duration="321000" />
+      <workItem from="1570349623848" duration="2823000" />
+      <workItem from="1570424015161" duration="436000" />
+      <workItem from="1570636802800" duration="5368000" />
+      <workItem from="1570694694412" duration="4185000" />
+      <workItem from="1570723751508" duration="3401000" />
+      <workItem from="1570762209498" duration="4955000" />
+      <workItem from="1570792490392" duration="9015000" />
+      <workItem from="1571396461740" duration="9140000" />
+      <workItem from="1571639795539" duration="2261000" />
+      <workItem from="1572328371830" duration="5260000" />
+      <workItem from="1572394665553" duration="4948000" />
+      <workItem from="1572414218742" duration="11857000" />
+      <workItem from="1572847201220" duration="54000" />
+      <workItem from="1573211245992" duration="5483000" />
+      <workItem from="1573996479043" duration="1714000" />
+      <workItem from="1574050608710" duration="69000" />
+      <workItem from="1574345656994" duration="1851000" />
+      <workItem from="1574472133486" duration="70000" />
+      <workItem from="1575112556400" duration="1182000" />
+      <workItem from="1576241929540" duration="1465000" />
+      <workItem from="1576570739994" duration="161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+Collection(储存单个值)
+    List  可重复 有序
+        ArrayList
+        LinkList
+        Vector
+    Set  不可重复 无序
+        HashSet
+        TreeSet
+
+Map(储存键值)
+    HashMap
+    Treemap
+    HashTable
+    

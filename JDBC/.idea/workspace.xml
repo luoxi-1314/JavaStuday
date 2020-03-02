@@ -22,6 +22,13 @@
     <expand />
     <select />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1YWxDy22B6FBWFnTmMhISUk6swK" />
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
@@ -31,7 +38,11 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="settings.editor.splitter.proportion" value="0.2027027" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -45,50 +56,81 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ConnectionTest.testConnection5">
-    <configuration name="ConnectionTest.testConnection1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Query.testQuery1">
+    <configuration name="PreparedStatementUpdateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JDBC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luo.connection.*" />
+          <option name="PATTERN" value="com.luo2.preparedstatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.luo.connection" />
-      <option name="MAIN_CLASS_NAME" value="com.luo.connection.ConnectionTest" />
-      <option name="METHOD_NAME" value="testConnection1" />
+      <option name="PACKAGE_NAME" value="com.luo2.preparedstatement" />
+      <option name="MAIN_CLASS_NAME" value="com.luo2.preparedstatement.PreparedStatementUpdateTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PreparedStatementUpdateTest.testCommonUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo2.preparedstatement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luo2.preparedstatement" />
+      <option name="MAIN_CLASS_NAME" value="com.luo2.preparedstatement.PreparedStatementUpdateTest" />
+      <option name="METHOD_NAME" value="testCommonUpdate" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConnectionTest.testConnection3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PreparedStatementUpdateTest.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JDBC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luo.connection.*" />
+          <option name="PATTERN" value="com.luo2.preparedstatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.luo.connection" />
-      <option name="MAIN_CLASS_NAME" value="com.luo.connection.ConnectionTest" />
-      <option name="METHOD_NAME" value="testConnection3" />
+      <option name="PACKAGE_NAME" value="com.luo2.preparedstatement" />
+      <option name="MAIN_CLASS_NAME" value="com.luo2.preparedstatement.PreparedStatementUpdateTest" />
+      <option name="METHOD_NAME" value="testInsert" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConnectionTest.testConnection5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PreparedStatementUpdateTest.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JDBC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luo.connection.*" />
+          <option name="PATTERN" value="com.luo2.preparedstatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.luo.connection" />
-      <option name="MAIN_CLASS_NAME" value="com.luo.connection.ConnectionTest" />
-      <option name="METHOD_NAME" value="testConnection5" />
+      <option name="PACKAGE_NAME" value="com.luo2.preparedstatement" />
+      <option name="MAIN_CLASS_NAME" value="com.luo2.preparedstatement.PreparedStatementUpdateTest" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Query.testQuery1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo2.preparedstatement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luo2.preparedstatement" />
+      <option name="MAIN_CLASS_NAME" value="com.luo2.preparedstatement.Query" />
+      <option name="METHOD_NAME" value="testQuery1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,9 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ConnectionTest.testConnection5" />
-        <item itemvalue="JUnit.ConnectionTest.testConnection3" />
-        <item itemvalue="JUnit.ConnectionTest.testConnection1" />
+        <item itemvalue="JUnit.Query.testQuery1" />
+        <item itemvalue="JUnit.PreparedStatementUpdateTest.testCommonUpdate" />
+        <item itemvalue="JUnit.PreparedStatementUpdateTest.testInsert" />
+        <item itemvalue="JUnit.PreparedStatementUpdateTest.testUpdate" />
+        <item itemvalue="JUnit.PreparedStatementUpdateTest" />
       </list>
     </recent_temporary>
   </component>
@@ -124,6 +168,7 @@
       <updated>1583073026718</updated>
       <workItem from="1583073028717" duration="388000" />
       <workItem from="1583074547271" duration="9611000" />
+      <workItem from="1583163389198" duration="15378000" />
     </task>
     <servers />
   </component>

@@ -2,7 +2,7 @@ package com.luo3.bean;
 
 import java.util.Date;
 
-/*
+/**
  *  ORM编程思想(object relational mapping)
  *  一个数据表对应一个java类
  *  表中一条记录对应java类中一个对象

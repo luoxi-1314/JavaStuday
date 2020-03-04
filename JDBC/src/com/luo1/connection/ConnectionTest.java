@@ -8,7 +8,11 @@ import java.sql.Driver;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.Properties;
-
+/**
+ * @author luo
+ * @date 2020/3/4 12:33
+ * @Description 数据库连接
+ */
 public class ConnectionTest {
     //方式一
     @Test

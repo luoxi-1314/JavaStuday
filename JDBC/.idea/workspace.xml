@@ -38,11 +38,22 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="play.paths.configuration" />
     <property name="settings.editor.splitter.proportion" value="0.2027027" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Java学习\JDBC\src" />
+      <recent name="G:\Java学习\JDBC\src\com\luo5\blob" />
+      <recent name="G:\Java学习\JDBC" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Java学习\JDBC\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -56,8 +67,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PreparedStatementQueryTest.testGetInstance">
-    <configuration name="PreparedStatementQueryTest.testGetInstance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BlobTest.testInsert">
+    <configuration name="BlobTest.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo5.blob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luo5.blob" />
+      <option name="MAIN_CLASS_NAME" value="com.luo5.blob.BlobTest" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PreparedStatementQueryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JDBC" />
       <extension name="coverage">
         <pattern>
@@ -67,13 +94,12 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.luo2.preparedstatement" />
       <option name="MAIN_CLASS_NAME" value="com.luo2.preparedstatement.PreparedStatementQueryTest" />
-      <option name="METHOD_NAME" value="testGetInstance" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PreparedStatementUpdateTest.testCommonUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PreparedStatementQueryTest.testGetForList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JDBC" />
       <extension name="coverage">
         <pattern>
@@ -82,56 +108,39 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.luo2.preparedstatement" />
-      <option name="MAIN_CLASS_NAME" value="com.luo2.preparedstatement.PreparedStatementUpdateTest" />
-      <option name="METHOD_NAME" value="testCommonUpdate" />
+      <option name="MAIN_CLASS_NAME" value="com.luo2.preparedstatement.PreparedStatementQueryTest" />
+      <option name="METHOD_NAME" value="testGetForList" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Query.testQuery1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JDBC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luo2.preparedstatement.*" />
+          <option name="PATTERN" value="com.luo4.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.luo2.preparedstatement" />
-      <option name="MAIN_CLASS_NAME" value="com.luo2.preparedstatement.Query" />
-      <option name="METHOD_NAME" value="testQuery1" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.luo4.test" />
+      <option name="MAIN_CLASS_NAME" value="com.luo4.test.Test1" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Query.testQueryForUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Test1.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JDBC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luo2.preparedstatement.*" />
+          <option name="PATTERN" value="com.luo4.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.luo2.preparedstatement" />
-      <option name="MAIN_CLASS_NAME" value="com.luo2.preparedstatement.Query" />
-      <option name="METHOD_NAME" value="testQueryForUser" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Query.testqueryForUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JDBC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luo2.preparedstatement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.luo2.preparedstatement" />
-      <option name="MAIN_CLASS_NAME" value="com.luo2.preparedstatement.Query" />
-      <option name="METHOD_NAME" value="testqueryForUser" />
+      <option name="PACKAGE_NAME" value="com.luo4.test" />
+      <option name="MAIN_CLASS_NAME" value="com.luo4.test.Test1" />
+      <option name="METHOD_NAME" value="testInsert" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -139,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PreparedStatementQueryTest.testGetInstance" />
-        <item itemvalue="JUnit.Query.testQueryForUser" />
-        <item itemvalue="JUnit.Query.testqueryForUser" />
-        <item itemvalue="JUnit.Query.testQuery1" />
-        <item itemvalue="JUnit.PreparedStatementUpdateTest.testCommonUpdate" />
+        <item itemvalue="JUnit.BlobTest.testInsert" />
+        <item itemvalue="JUnit.Test1" />
+        <item itemvalue="JUnit.Test1.testInsert" />
+        <item itemvalue="JUnit.PreparedStatementQueryTest.testGetForList" />
+        <item itemvalue="JUnit.PreparedStatementQueryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +179,8 @@
       <workItem from="1583073028717" duration="388000" />
       <workItem from="1583074547271" duration="9611000" />
       <workItem from="1583163389198" duration="19228000" />
-      <workItem from="1583241894458" duration="3500000" />
+      <workItem from="1583241894458" duration="6189000" />
+      <workItem from="1583296333239" duration="7487000" />
     </task>
     <servers />
   </component>

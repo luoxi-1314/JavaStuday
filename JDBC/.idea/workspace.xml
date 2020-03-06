@@ -46,13 +46,13 @@
     <property name="settings.editor.splitter.proportion" value="0.2027027" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Java学习\JDBC\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\Java学习\JDBC\src" />
       <recent name="G:\Java学习\JDBC\src\com\luo5\blob" />
       <recent name="G:\Java学习\JDBC" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\Java学习\JDBC\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -67,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BlobTest.testInsert">
+  <component name="RunManager" selected="JUnit.BlobTest.testQuery">
     <configuration name="BlobTest.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JDBC" />
       <extension name="coverage">
@@ -84,17 +84,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PreparedStatementQueryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BlobTest.testQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JDBC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luo2.preparedstatement.*" />
+          <option name="PATTERN" value="com.luo5.blob.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.luo2.preparedstatement" />
-      <option name="MAIN_CLASS_NAME" value="com.luo2.preparedstatement.PreparedStatementQueryTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.luo5.blob" />
+      <option name="MAIN_CLASS_NAME" value="com.luo5.blob.BlobTest" />
+      <option name="METHOD_NAME" value="testQuery" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -148,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BlobTest.testQuery" />
         <item itemvalue="JUnit.BlobTest.testInsert" />
         <item itemvalue="JUnit.Test1" />
         <item itemvalue="JUnit.Test1.testInsert" />
         <item itemvalue="JUnit.PreparedStatementQueryTest.testGetForList" />
-        <item itemvalue="JUnit.PreparedStatementQueryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +181,9 @@
       <workItem from="1583074547271" duration="9611000" />
       <workItem from="1583163389198" duration="19228000" />
       <workItem from="1583241894458" duration="6189000" />
-      <workItem from="1583296333239" duration="7487000" />
+      <workItem from="1583296333239" duration="8270000" />
+      <workItem from="1583455387345" duration="3332000" />
+      <workItem from="1583466583476" duration="3746000" />
     </task>
     <servers />
   </component>
